@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\3_Study\7_AndroidStudy\AndroidCallLua\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="D:\3_Study\7_AndroidStudy\AndroidCallLua\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1_e225b997586a998020ceadaac1680f6eb0fcc47a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\3_Study\7_AndroidStudy\AndroidCallLua\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="D:\3_Study\7_AndroidStudy\AndroidCallLua\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.2.1_6595a1ea9809968e4dd0405c6250424f853d6c79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\times\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="D:\3_Study\7_AndroidStudy\AndroidCallLua\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1_3a114a52c13e5778e1da26a645fc177b0ff4a383.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\3_Study\7_AndroidStudy\AndroidCallLua\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="D:\3_Study\7_AndroidStudy\AndroidCallLua\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-22.2.1_3614cde5bfdde9461e0f8533b602c9b8890baa8c.jar" />
+    </item>
+
+</items>
